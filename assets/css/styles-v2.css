@@ -355,12 +355,12 @@ hr {
 
 
 .logo {
-  width: 65px;
+  width: 130px;
 }
 
 @media (max-width: 767px) {
   .logo {
-    width: 64px;
+    width: 130px;
   }
 }
 
