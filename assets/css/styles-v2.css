@@ -354,5 +354,13 @@ hr {
 }
 
 
+.logo {
+  width: 36px;
+}
 
+@media (max-width: 767px) {
+  .logo {
+    width: 32px;
+  }
+}
 
