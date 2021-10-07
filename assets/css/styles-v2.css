@@ -356,6 +356,7 @@ hr {
 
 .logo {
   width: 36px;
+  hight: 
 }
 
 @media (max-width: 767px) {
@@ -364,3 +365,9 @@ hr {
   }
 }
 
+footer {
+    color: rgb(255, 255, 255); 
+    background: rgb(36, 36, 36); 
+    padding: 20px;
+    text-align: center;
+}
