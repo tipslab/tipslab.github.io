@@ -352,4 +352,19 @@ h4 {
 hr {
   border-top: 1px solid #dedede;
 }
-  
+
+.footer {
+    color: rgb(255, 255, 255); 
+    background: rgb(36, 36, 36); 
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-credit {
+    padding-top: 16px;
+    font-size:14px;
+    color:#dedede;
+    text-align: center;
+}
+
+
