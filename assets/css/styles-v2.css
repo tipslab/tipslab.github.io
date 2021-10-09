@@ -373,6 +373,8 @@ footer {
 
 .navbar{
     background: #dedede;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .navbar-nav{
